@@ -9,10 +9,6 @@ sites:
     url: https://e5-2.xicro.pp.ua
   - name: Renew X 3
     url: https://e5-3.xicro.pp.ua
-  - name: Renew X 4
-    url: https://e5-4.xicro.pp.ua
-  - name: Renew X 5
-    url: https://e5-5.xicro.pp.ua
 
 
 status-website:
