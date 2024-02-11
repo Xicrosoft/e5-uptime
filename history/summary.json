@@ -4,53 +4,59 @@
     "url": "https://e5-1.xicro.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/e5-1.xicro.pp.ua.ico",
     "slug": "renew-x-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 786,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
-    "dailyMinutesDown": {}
+    "time": 632,
+    "timeDay": 930,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
+    "dailyMinutesDown": {
+      "2024-02-11": 0
+    }
   },
   {
     "name": "Renew X 2",
     "url": "https://e5-2.xicro.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/e5-2.xicro.pp.ua.ico",
     "slug": "renew-x-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 1453,
-    "timeWeek": 837,
-    "timeMonth": 837,
-    "timeYear": 837,
-    "dailyMinutesDown": {}
+    "time": 956,
+    "timeDay": 1622,
+    "timeWeek": 956,
+    "timeMonth": 956,
+    "timeYear": 956,
+    "dailyMinutesDown": {
+      "2024-02-11": 0
+    }
   },
   {
     "name": "Renew X 3",
     "url": "https://e5-3.xicro.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/e5-3.xicro.pp.ua.ico",
     "slug": "renew-x-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 1137,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
-    "dailyMinutesDown": {}
+    "time": 802,
+    "timeDay": 1258,
+    "timeWeek": 802,
+    "timeMonth": 802,
+    "timeYear": 802,
+    "dailyMinutesDown": {
+      "2024-02-11": 0
+    }
   }
 ]
